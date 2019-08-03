@@ -1,6 +1,6 @@
 {
   "name": "whatta-type",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Verify that your users are inputting the correct types in a runtime environment. If they don't then your program will be alerted and you can deal with it in your own manner.",
   "main": "WhattaType.js",
   "scripts": {},

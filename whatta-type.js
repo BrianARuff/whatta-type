@@ -46,7 +46,7 @@ const isSymbol = (value) => {
   return typeof value === 'symbol';
 }
 
-module.exports = {
+const whattaType = {
   isString,
   isNumber,
   isArray,
@@ -60,3 +60,5 @@ module.exports = {
   isDate,
   isSymbol,
 }
+
+module.exports = whattaType;

@@ -3,9 +3,9 @@
 
 ## **How to import package**
 ```
-const types = require("whatta-type");
+const type = require("whatta-type");
 
-import types from "whatta-type"
+import { whattaType as type } from "whatta-type"
 ```
 
 ---
@@ -13,14 +13,14 @@ import types from "whatta-type"
 ### **How to use package**
 Here are some examples cases of how to use the package
 ```
-console.log(types.isArray(["1", "2", "3"])); // true
+console.log(type.isArray(["1", "2", "3"])); // true
 
-console.log(types.isArray("I am a string")); // false
+console.log(type.isArray("I am a string")); // false
 ```
 ---
 
 #### **TODO**
-1. Add testing with Jest
+1. Add testing with Jest framework.
 ---
 
 #### **Notes:**
