@@ -1,0 +1,23 @@
+{
+  "name": "whatta-type",
+  "version": "1.0.0",
+  "description": "Verify that your users are inputting the correct types in a runtime environment. If they don't then your program will be alerted and you can deal with it in your own manner.",
+  "main": "WhattaType.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianARuff/whatta-type.git"
+  },
+  "keywords": [
+    "whatta-type"
+  ],
+  "author": "Brian Ruff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianARuff/whatta-type/issues"
+  },
+  "homepage": "https://github.com/BrianARuff/whatta-type#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
