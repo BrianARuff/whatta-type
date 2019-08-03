@@ -3,7 +3,9 @@
 
 ## **How to import package**
 ```
-const types = require("WhattaType.js");
+const types = require("whatta-type");
+
+import types from "whatta-type"
 ```
 
 ---
